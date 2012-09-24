@@ -1,0 +1,6 @@
+This is a Haskell module for parsingMulti-Threaded Routing Toolkit (MRT) Routing
+Information Export Format files, as described by RFC6396.
+So far it only converts to a IPv4 IPRTable, but another function can be added
+for other table types as the parser is there.
+I will cabalize it at some point.
+
